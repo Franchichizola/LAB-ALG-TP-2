@@ -1,3 +1,4 @@
+*Mi portfolio
 Este proyecto consiste en una página web personal tipo portfolio donde presento información sobre mí, mis habilidades técnicas, proyectos realizados y medios de contacto. El objetivo fue aplicar los conocimientos adquiridos en HTML y CSS para crear un sitio moderno, funcional, adaptable y visualmente atractivo, con opción de modo oscuro y secciones organizadas.
 
 La página web incluye:
